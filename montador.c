@@ -1,7 +1,3 @@
-/* Montador (Assembler) para o processador NEANDER.
- * Le um programa Assembly (.asm) e gera o codigo de maquina (.mem).
- * Uso: ./montador.out prog1.asm [prog1.mem] */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
