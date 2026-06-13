@@ -1,0 +1,8 @@
+# Executáveis e objetos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Pasta de ferramentas locais
+.claude/
