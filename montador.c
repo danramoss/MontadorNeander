@@ -1,3 +1,7 @@
+/* Trabalho realizado por:
+ * Danilo Nascimento Ramos
+ * Leonardo Cordeiro da Silva */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
